@@ -9,6 +9,8 @@ All Linux distributions - https://distrowatch.com/
 
 Regex practice and help - https://regex101.com/
 
+Vim-cheatsheet - https://vim.rtorr.com/
+
 ### Testing Resources
 Vue testing - https://vue-test-utils.vuejs.org/api/wrapper/
 
