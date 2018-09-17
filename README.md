@@ -2,8 +2,8 @@
 Resources and links all in one place
 
 - [Linux Resources](#Linux-Resources)
-- [Testing Resources](#Testing-Resources)
 - [MATLAB Resources](#MATLAB-Resources)
+- [Testing Resources](#Testing-Resources)
 
 ### Linux Resources
 All Linux distributions - https://distrowatch.com/
