@@ -4,6 +4,10 @@ Resources and links all in one place
 - [Linux Resources](#Linux-Resources)
 - [MATLAB Resources](#MATLAB-Resources)
 - [Testing Resources](#Testing-Resources)
+- [General JS Resources](#JS-Resources)
+
+### Javascript Resources
+Lots of small chunks of useful code - https://github.com/30-seconds/30-seconds-of-code
 
 ### Linux Resources
 All Linux distributions - https://distrowatch.com/
