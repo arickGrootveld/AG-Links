@@ -16,6 +16,8 @@ Regex practice and help - https://regex101.com/
 
 Vim-cheatsheet - https://vim.rtorr.com/
 
+Vim VisualBlockEditing - https://mkrmr.wordpress.com/2010/05/14/vim-tip-visual-block-editing/
+
 ### MATLAB Resources
 MNIST data guide - http://ufldl.stanford.edu/wiki/index.php/Using_the_MNIST_Dataset
 
