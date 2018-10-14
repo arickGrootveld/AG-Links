@@ -5,6 +5,7 @@ Resources and links all in one place
 - [MATLAB Resources](#MATLAB-Resources)
 - [Testing Resources](#Testing-Resources)
 - [General JS Resources](#JS-Resources)
+- [RF Engineering Resources](#RF-Resources)
 
 ### Javascript Resources
 Lots of small chunks of useful code - https://github.com/30-seconds/30-seconds-of-code
@@ -22,6 +23,10 @@ Vim Cliboard Buffers - http://vim.wikia.com/wiki/Accessing_the_system_clipboard
 
 ### MATLAB Resources
 MNIST data guide - http://ufldl.stanford.edu/wiki/index.php/Using_the_MNIST_Dataset
+
+## RF Engineering Resources
+Electromagnetic Field Simulation - https://www.ansys.com/products/electronics/ansys-hfss
+
 
 ### Testing Resources
 Vue testing - https://vue-test-utils.vuejs.org/api/wrapper/
