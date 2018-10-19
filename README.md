@@ -10,6 +10,8 @@ Resources and links all in one place
 ### Javascript Resources
 Lots of small chunks of useful code - https://github.com/30-seconds/30-seconds-of-code
 
+GraphQL Tutorial - https://www.howtographql.com
+
 ### Linux Resources
 All Linux distributions - https://distrowatch.com/
 
