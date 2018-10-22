@@ -12,6 +12,8 @@ Lots of small chunks of useful code - https://github.com/30-seconds/30-seconds-o
 
 GraphQL Tutorial - https://www.howtographql.com
 
+Webpage GUI - https://grapesjs.com/
+
 ### Linux Resources
 All Linux distributions - https://distrowatch.com/
 
