@@ -36,3 +36,5 @@ Electromagnetic Field Simulation - https://www.ansys.com/products/electronics/an
 Vue testing - https://vue-test-utils.vuejs.org/api/wrapper/
 
 Chai cheat sheet - https://devhints.io/chai
+
+Xpath cheat sheet - https://devhints.io/xpath
