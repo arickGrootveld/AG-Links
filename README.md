@@ -6,6 +6,10 @@ Resources and links all in one place
 - [Testing Resources](#Testing-Resources)
 - [General JS Resources](#JS-Resources)
 - [RF Engineering Resources](#RF-Resources)
+- [Electrical and Computer Engineering Resources](#ECE-Resources)
+
+### Electrical and Computer Engineering Resources
+Cornell ECE Courses - https://classes.cornell.edu/browse/roster/FA18/subject/ECE
 
 ### Javascript Resources
 Lots of small chunks of useful code - https://github.com/30-seconds/30-seconds-of-code
