@@ -37,6 +37,8 @@ MNIST data guide - http://ufldl.stanford.edu/wiki/index.php/Using_the_MNIST_Data
 ## RF Engineering Resources
 Electromagnetic Field Simulation - https://www.ansys.com/products/electronics/ansys-hfss
 
+MIT Introduction to Radar Systems - https://www.ll.mit.edu/outreach/introduction-radar-systems
+
 
 ### Testing Resources
 Vue testing - https://vue-test-utils.vuejs.org/api/wrapper/
