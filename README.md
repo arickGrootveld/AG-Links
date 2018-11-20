@@ -20,7 +20,7 @@ Webpage GUI - https://grapesjs.com/
 
 GraphQL Vue Client -https://akryum.github.io/vue-apollo/guide/#sponsors
 
-Javascript Tutorials for Everything - https://github.com/danistefanovic/build-your-own-x#build-your-own-operating-system
+Javascript Tutorials for Everything - https://github.com/danistefanovic/build-your-own-x
 
 ### Linux Resources
 All Linux distributions - https://distrowatch.com/
