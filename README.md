@@ -7,6 +7,7 @@ Resources and links all in one place
 - [General JS Resources](#JS-Resources)
 - [RF Engineering Resources](#RF-Resources)
 - [Electrical and Computer Engineering Resources](#ECE-Resources)
+- [Machine Learning Resources](ML-Resources)
 
 ### Electrical and Computer Engineering Resources
 Cornell ECE Courses - https://classes.cornell.edu/browse/roster/FA18/subject/ECE
@@ -35,6 +36,9 @@ Vim Cliboard Buffers - http://vim.wikia.com/wiki/Accessing_the_system_clipboard
 
 ### MATLAB Resources
 MNIST data guide - http://ufldl.stanford.edu/wiki/index.php/Using_the_MNIST_Dataset
+
+### Machine Learning Resources
+Basics Of Speech Recognition - https://cmusphinx.github.io/wiki/tutorialconcepts/
 
 ## RF Engineering Resources
 Electromagnetic Field Simulation - https://www.ansys.com/products/electronics/ansys-hfss
