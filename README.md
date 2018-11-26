@@ -8,6 +8,7 @@ Resources and links all in one place
 - [RF Engineering Resources](#RF-Resources)
 - [Electrical and Computer Engineering Resources](#ECE-Resources)
 - [Machine Learning Resources](ML-Resources)
+- [Signal Processing Resources](SP-Resources)
 
 ### Electrical and Computer Engineering Resources
 Cornell ECE Courses - https://classes.cornell.edu/browse/roster/FA18/subject/ECE
@@ -45,6 +46,10 @@ Electromagnetic Field Simulation - https://www.ansys.com/products/electronics/an
 
 MIT Introduction to Radar Systems - https://www.ll.mit.edu/outreach/introduction-radar-systems
 
+### Signal Processing Resources
+Audio Signal Processing Data - https://ccrma.stanford.edu/~jos/
+
+Tutorials On Digital Communications Engineering - http://complextoreal.com/tutorials/#.W_wqUnWYXmF
 
 ### Testing Resources
 Vue testing - https://vue-test-utils.vuejs.org/api/wrapper/
