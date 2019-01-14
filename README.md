@@ -13,6 +13,8 @@ Resources and links all in one place
 ### Electrical and Computer Engineering Resources
 Cornell ECE Courses - https://classes.cornell.edu/browse/roster/FA18/subject/ECE
 
+Embedded Passive Components - http://www.circuitinsight.com/pdf/embedding_passive_active_components_ipc.pdf
+
 ### Javascript Resources
 Lots of small chunks of useful code - https://github.com/30-seconds/30-seconds-of-code
 
@@ -45,6 +47,8 @@ Basics Of Speech Recognition - https://cmusphinx.github.io/wiki/tutorialconcepts
 Electromagnetic Field Simulation - https://www.ansys.com/products/electronics/ansys-hfss
 
 MIT Introduction to Radar Systems - https://www.ll.mit.edu/outreach/introduction-radar-systems
+
+RF Circuit Design - https://www.youtube.com/watch?v=TnRn3Kn_aXg
 
 ### Signal Processing Resources
 Audio Signal Processing Data - https://ccrma.stanford.edu/~jos/
