@@ -39,6 +39,8 @@ Vim Cliboard Buffers - http://vim.wikia.com/wiki/Accessing_the_system_clipboard
 
 Tmux Intro - https://www.sitepoint.com/tmux-a-simple-start/
 
+Tmux Cheatsheet - https://tmuxcheatsheet.com/
+
 ### MATLAB Resources
 MNIST data guide - http://ufldl.stanford.edu/wiki/index.php/Using_the_MNIST_Dataset
 
