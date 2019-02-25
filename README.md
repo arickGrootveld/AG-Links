@@ -26,6 +26,8 @@ GraphQL Vue Client -https://akryum.github.io/vue-apollo/guide/#sponsors
 
 Javascript Tutorials for Everything - https://github.com/danistefanovic/build-your-own-x
 
+Vue Udemy course (highly recommended) - https://www.udemy.com/vuejs-2-the-complete-guide/
+
 ### Linux Resources
 All Linux distributions - https://distrowatch.com/
 
