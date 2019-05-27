@@ -4,7 +4,7 @@ Resources and links all in one place
 - [Linux Resources](#Linux-Resources)
 - [MATLAB Resources](#MATLAB-Resources)
 - [Testing Resources](#Testing-Resources)
-- [General JS Resources](#JS-Resources)
+- [Javascript Resources](#JS-Resources)
 - [RF Engineering Resources](#RF-Resources)
 - [Electrical and Computer Engineering Resources](#ECE-Resources)
 - [Machine Learning Resources](#ML-Resources)
