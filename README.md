@@ -29,7 +29,7 @@ Javascript Tutorials for Everything - https://github.com/danistefanovic/build-yo
 
 Vue Udemy course (highly recommended) - https://www.udemy.com/vuejs-2-the-complete-guide/
 
-## Latex Resources
+### Latex Resources
 Common Latex Functions and Symbols - https://en.wikipedia.org/wiki/Wikipedia:LaTeX_symbols
 
 ### Linux Resources
@@ -53,7 +53,7 @@ MNIST data guide - http://ufldl.stanford.edu/wiki/index.php/Using_the_MNIST_Data
 ### Machine Learning Resources
 Basics Of Speech Recognition - https://cmusphinx.github.io/wiki/tutorialconcepts/
 
-## RF Engineering Resources
+### RF Engineering Resources
 Electromagnetic Field Simulation - https://www.ansys.com/products/electronics/ansys-hfss
 
 MIT Introduction to Radar Systems - https://www.ll.mit.edu/outreach/introduction-radar-systems
