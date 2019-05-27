@@ -7,8 +7,9 @@ Resources and links all in one place
 - [General JS Resources](#JS-Resources)
 - [RF Engineering Resources](#RF-Resources)
 - [Electrical and Computer Engineering Resources](#ECE-Resources)
-- [Machine Learning Resources](ML-Resources)
-- [Signal Processing Resources](SP-Resources)
+- [Machine Learning Resources](#ML-Resources)
+- [Signal Processing Resources](#SP-Resources)
+- [Latex Resources](#Latex-Resources)
 
 ### Electrical and Computer Engineering Resources
 Cornell ECE Courses - https://classes.cornell.edu/browse/roster/FA18/subject/ECE
@@ -22,11 +23,14 @@ GraphQL Tutorial - https://www.howtographql.com
 
 Webpage GUI - https://grapesjs.com/
 
-GraphQL Vue Client -https://akryum.github.io/vue-apollo/guide/#sponsors
+GraphQL Vue Client - https://akryum.github.io/vue-apollo/guide/#sponsors
 
 Javascript Tutorials for Everything - https://github.com/danistefanovic/build-your-own-x
 
 Vue Udemy course (highly recommended) - https://www.udemy.com/vuejs-2-the-complete-guide/
+
+## Latex Resources
+Common Latex Functions and Symbols - https://en.wikipedia.org/wiki/Wikipedia:LaTeX_symbols
 
 ### Linux Resources
 All Linux distributions - https://distrowatch.com/
